@@ -78,3 +78,14 @@ nav li a:hover {
     background-color: #F2A30F;
 		color: #1A2A40;
 }
+
+.grid-container{
+    display:grid;
+    
+}
+
+.item3{
+    text-align: 'center';
+    width: 100%;
+    height: auto;
+}
